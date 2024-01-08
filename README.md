@@ -1,6 +1,13 @@
-# React + Vite
+# My React Vite Template
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+This is a template REPO - How to clone below
+
+npx tiged <YOUR-GH-USERNAME>/my-react-vite-template#main <new-project-name>
+(You can substitute your GitHub username for <YOUR-GH-USERNAME>.)
+
+This command will create a clone of the repo' main branch under the name in the directory where it is run.
+
+Open a terminal and cd into the directory where you want to create your React app.
 
 Currently, two official plugins are available:
 
